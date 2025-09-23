@@ -4,3 +4,5 @@ numpy==2.1
 torch==2.8.0
 matplotlib==3.10.6
 scikit-learn==1.7.1
+datasets[vision]
+torchvision==0.23
